@@ -1,3 +1,4 @@
+<img width="192" height="192" alt="Apple Music" src="https://github.com/user-attachments/assets/34b5ca6b-c37a-4e8b-b903-d61047caeb8e" />
 # SDK-Privacy-Report
 This repository is a community maintained & sourced documentation of privacy details of popular SDKs. Details include data collected/shared, purposes, tracking details which app developers can use to fill the privacy forms for Apple Privacy Nutrition & Google Safety Section.
 
